@@ -1,0 +1,10 @@
+mediapipe
+opencv-python
+scikit-learn
+pandas
+numpy
+pillow
+keyboard
+telepot
+seaborn
+matplotlib
