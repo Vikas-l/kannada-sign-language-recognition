@@ -1,6 +1,8 @@
 # Kannada Sign Language Recognition
 
-Real-time recognition of Kannada sign language gestures from a webcam, built as a final-year engineering project.
+**Final-year engineering project:** *"Implementation of Kannada Sign Language Recognition for Deaf and Dumb"*
+
+Real-time recognition of Kannada sign language gestures from a webcam, so that deaf and speech-impaired people can communicate in Kannada with people who don't know sign language.
 
 The app tracks your hand with MediaPipe, classifies the gesture with an SVM, and shows the matching Kannada letter or word on screen in Kannada script. You can build a sentence one sign at a time and send it to a Telegram chat.
 
